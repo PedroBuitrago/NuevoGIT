@@ -2,4 +2,5 @@
 Desarrollador2-IniciativaDesarrollador2:1
 Desarrollador1: Cambio1
 Desarrollador1: Cambio2
-Desarrollador2:Cambio:2
+Desarrollador2: Cambio:2
+Desarrollador2: Cambio3
